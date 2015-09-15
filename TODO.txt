@@ -1,4 +1,4 @@
 use master branch ONLY for finished puzzles - all other puzzles should be created on other branches and merged in when they are deemed complete
 be sure the individual folders at the top level are complete puzzles
-clean up UnfinishedOuzzles and start moving actual unfinished ones to their own branches
+clean up UnfinishedPuzzles and start moving actual unfinished ones to their own branches
 
