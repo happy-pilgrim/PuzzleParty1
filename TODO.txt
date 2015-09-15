@@ -1,0 +1,3 @@
+use master branch ONLY for finished puzzles - all other puzzles should be created on other branches and merged in when they are deemed complete
+probably get rid of these desktop.ini files everywhere if we're going to actually migrate to git
+
